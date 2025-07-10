@@ -10,5 +10,5 @@ def multiply(a,b):
 print("Hello, World!!")
 
 print(sum(1,-2))
-print(subtract(1,4))
+print(subtract(1,-2))
 print("Hello Udaya Narne")
