@@ -1,2 +1,2 @@
 def qwert():
-    print("QWERTYUIOPqwerty")
+    print("QWERTYUIOPqwertyuiop")
