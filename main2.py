@@ -2,6 +2,6 @@ def qwert():
     print("QWERTYUIOPqwertyuiop")
 
 def main():
-    print("Hello, World!")
+    print("Hello from main2.py")
     qwert()
 
