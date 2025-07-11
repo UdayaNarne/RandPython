@@ -4,4 +4,3 @@ def qwert():
 def main():
     print("Hello from main2.py")
     qwert()
-
